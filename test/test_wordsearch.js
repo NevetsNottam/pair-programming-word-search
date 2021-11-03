@@ -36,3 +36,4 @@ describe("#wordSearch()", function() {
     assert.isTrue(result);
   });
 });
+
